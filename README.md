@@ -15,6 +15,9 @@ I'm currently working on Malaria Diagnosis Using Deep Learning<br>I'm currently 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alihassanml&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alihassanml&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### 😂 Random Dev Meme
 Docker
 
