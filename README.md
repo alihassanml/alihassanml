@@ -16,9 +16,7 @@ I'm currently working on Malaria Diagnosis Using Deep Learning<br>I'm currently 
 ![](https://github-contributor-stats.vercel.app/api?username=alihassanml&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+Docker
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alihassanml&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
