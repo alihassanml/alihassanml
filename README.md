@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Malaria Diagnosis Using Deep Learning<br>I'm currently learning Deep Learning With computer vision<br>
+I'm currently working on Malaria Diagnosis Using Deep Learning<br>I'm currently learning Deep Learning With computer vision<br>I'm currently working on ARIMA & SARIMAX Model<br>I'm currently working on YOLO Algorithm for Object Detection
 
 
 ## 🌐 Socials:
