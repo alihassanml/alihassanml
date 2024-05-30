@@ -1,0 +1,3 @@
+User-agent: *
+allow: /alihassanml/WeatherDjangoHub.git
+allow: /github.com/alihassanml/
