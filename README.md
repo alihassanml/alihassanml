@@ -1,4 +1,5 @@
 # 💫 About Me:
+Currently delving into the cutting-edge fields of Generative AI and LangChain to push the boundaries of Innovation<br>
 I want to Learn Mlops<br>I'm currently Learning Neural Network<br>I'm currently learning Deep Learning With computer vision<br>I'm currently working on YOLO Algorithm for Object Detection
 
 
