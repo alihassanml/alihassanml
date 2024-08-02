@@ -2,10 +2,6 @@
 Currently delving into the cutting-edge fields of Generative AI and LangChain to push the boundaries of Innovation<br>
 I want to Learn Mlops<br>I'm currently Learning Neural Network<br>I'm currently learning Deep Learning With computer vision<br>I'm currently working on YOLO Algorithm for Object Detection
 
-# Protfolio
-https://alihassanml.vercel.app/
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alihassanml) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alihassanml) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alihassanml) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alihassanml) 
 
@@ -23,4 +19,5 @@ https://alihassanml.vercel.app/
 ![](https://github-contributor-stats.vercel.app/api?username=alihassanml&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
-
+# Protfolio
+https://alihassanml.vercel.app/
