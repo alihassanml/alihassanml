@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm Ali Hassan from Lahore, Pakistan, and I am a #Data Scientist with a passion for Machine Learning, Deep Learning, and Generative AI. With my expertise in developing Machine Learning Model, Deep Learning Model, I help businesses make sense of their complex data sets and turn them into actionable strategies.
-<\b>
+<b>
 My love for technology doesn't stop there - I am also a skilled #Full Stack Web Developer, proficient in both frontend and backend development. From React and Django to HTML and Python, I have a versatile skill set that allows me to create user-friendly interfaces, build RESTful APIs, and ensure optimal performance of web applications.
 <\b>
 But I'm not one to settle for the status quo. I am constantly exploring the latest fields of Generative AI and Langchain, always eager to push the boundaries of innovation. As an avid learner, I am continuously expanding my skill set and embracing new challenges.
