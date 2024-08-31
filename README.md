@@ -1,11 +1,15 @@
 # 💫 About Me:
 Hi there, I'm Ali Hassan from Lahore, Pakistan, and I am a #Data Scientist with a passion for Machine Learning, Deep Learning, and Generative AI. With my expertise in developing Machine Learning Model, Deep Learning Model, I help businesses make sense of their complex data sets and turn them into actionable strategies.
 <br/>
+<br/>
 My love for technology doesn't stop there - I am also a skilled #Full Stack Web Developer, proficient in both frontend and backend development. From React and Django to HTML and Python, I have a versatile skill set that allows me to create user-friendly interfaces, build RESTful APIs, and ensure optimal performance of web applications.
+<br/>
 <br/>
 But I'm not one to settle for the status quo. I am constantly exploring the latest fields of Generative AI and Langchain, always eager to push the boundaries of innovation. As an avid learner, I am continuously expanding my skill set and embracing new challenges.
 <br/>
+<br/>
 I strongly believe in the transformative power of data and technology to solve complex problems and make a positive impact on businesses and society. Let's connect and explore how we can work together to create a better future.
+<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alihassanml) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alihassanml) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alihassanml) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alihassanml) 
