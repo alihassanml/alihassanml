@@ -4,18 +4,6 @@ Hi there! I’m **Ali Hassan** from **Lahore, Pakistan** 🇵🇰. I’m a passi
 
 ---
 
-My tech enthusiasm doesn't stop there! I’m also a skilled **Full Stack Web Developer** 🌐, adept in both frontend and backend technologies. Whether it’s **React** ⚛️, **Django** 🐍, **HTML** 🌎, or **Python** 🐍, I’ve got a versatile skill set that enables me to build intuitive interfaces, craft RESTful APIs, and ensure seamless web application performance.
-
----
-
-I’m all about innovation and never settle for the ordinary. Constantly exploring cutting-edge fields like **Generative AI** and **Langchain** 🚀, I’m always eager to push boundaries and embrace new challenges.
-
----
-
-I firmly believe in the transformative power of data and technology to solve complex problems and create a positive impact on businesses and society. Let’s connect and explore how we can collaborate to build a better future! 🌟🚀
-
----
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alihassanml) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alihassanml) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alihassanml) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alihassanml) 
 
