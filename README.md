@@ -23,3 +23,4 @@ Hi there! I’m **Ali Hassan** from **Lahore, Pakistan** 🇵🇰. I’m a passi
 
 # Protfolio
 https://alihassanml.vercel.app/
+[![](https://visitcount.itsvg.in/api?id=alihassanml&icon=0&color=0)](https://visitcount.itsvg.in)
